@@ -1,3 +1,8 @@
-The primary objective of this program is to create a fun, interactive game where the user has to guess a randomly generated number between 1 and 100. The game provides feedback after each guess to help the user reach the correct number.
-Code is a number-guessing game where the computer generates a random number between 1 and 100, and the user tries to guess it. Here’s a breakdown:
-Overall, this program not only provides a way to practice C programming but also includes important concepts like loops, conditionals, user input, and random number generation.
+Guess the Number game in C++ is a simple console-based game where the computer randomly selects a number within a specified range, and the player tries to guess the number. After each guess, the computer provides feedback, telling the player if the guess was too high, too low, or correct. The game continues until the player guesses the correct number.
+
+Key Features:
+The computer generates a random number.
+The player inputs a guess.
+The program gives hints (too high or too low).
+The game ends when the correct number is guessed.
+This game helps in learning basic loops, conditionals, and random number generation in C++.
